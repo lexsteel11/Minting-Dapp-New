@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Minting-Dapp-New/static/css/main.eb7029c9.chunk.css",
+    "main.js": "/Minting-Dapp-New/static/js/main.13f5db90.chunk.js",
+    "main.js.map": "/Minting-Dapp-New/static/js/main.13f5db90.chunk.js.map",
+    "runtime-main.js": "/Minting-Dapp-New/static/js/runtime-main.c4c800c8.js",
+    "runtime-main.js.map": "/Minting-Dapp-New/static/js/runtime-main.c4c800c8.js.map",
+    "static/js/2.e1d83b5e.chunk.js": "/Minting-Dapp-New/static/js/2.e1d83b5e.chunk.js",
+    "static/js/2.e1d83b5e.chunk.js.map": "/Minting-Dapp-New/static/js/2.e1d83b5e.chunk.js.map",
+    "static/js/3.1414eae9.chunk.js": "/Minting-Dapp-New/static/js/3.1414eae9.chunk.js",
+    "static/js/3.1414eae9.chunk.js.map": "/Minting-Dapp-New/static/js/3.1414eae9.chunk.js.map",
+    "index.html": "/Minting-Dapp-New/index.html",
+    "static/css/main.eb7029c9.chunk.css.map": "/Minting-Dapp-New/static/css/main.eb7029c9.chunk.css.map",
+    "static/js/2.e1d83b5e.chunk.js.LICENSE.txt": "/Minting-Dapp-New/static/js/2.e1d83b5e.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/Minting-Dapp-New/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4c800c8.js",
+    "static/js/2.e1d83b5e.chunk.js",
+    "static/css/main.eb7029c9.chunk.css",
+    "static/js/main.13f5db90.chunk.js"
+  ]
+}
